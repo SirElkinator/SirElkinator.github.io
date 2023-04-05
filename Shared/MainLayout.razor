@@ -1,5 +1,5 @@
 ﻿@inherits LayoutComponentBase
-
+@page "/"
 <div class="page">
 
 	<div class="main">
@@ -17,13 +17,12 @@
 				case 3:
 					<Experience />
 					break;
+				case 4:
+					<Contact/>
+					break;
 			}
 
 		</div>
 
 	</div>
 </div>
-
-@code{
-	public int siteIndex { get; set; } = 1;
-}

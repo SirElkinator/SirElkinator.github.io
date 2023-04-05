@@ -5,3 +5,4 @@
 	anchorElement.click();
 	anchorElement.remove();
 }
+

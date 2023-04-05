@@ -1,0 +1,24 @@
+﻿<div>
+	<h1 align=center style="padding:0px; height:20px; vertical-align: top; margin-bottom:50px">Contact</h1>
+
+		<span class="contact">
+		<p>
+			<RadzenTextBox Style="width: 18vw" @bind-Value="FirstName" Placeholder="First Name *" />&nbsp;&nbsp;
+
+			<RadzenTextBox Style="width: 18vw" @bind-Value="LastName" Placeholder="Last Name *" />&nbsp;&nbsp;
+
+			<RadzenTextBox Style="width: 18vw" @bind-Value="EmailAddr" Placeholder="Email Address *" />
+			<br />
+			<br />
+			<RadzenTextBox Style="width: 60vw" @bind-Value="Subject" Placeholder="Subject *" />
+			<br />
+			<br />
+			<RadzenTextArea Style="width: 60vw; height: 30vh" @bind-Value="Message" Placeholder="Message *" />
+
+			<br />
+			<RadzenButton class="btn" style="width:20%; background-color:#522f2f" Click="SendEmail" Text="SUBMIT" />
+
+		</p>
+	</span>
+
+</div>
