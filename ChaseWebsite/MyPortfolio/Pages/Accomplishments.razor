@@ -1,0 +1,19 @@
+﻿<div>
+	<link rel="Stylesheet" href="Main.css" type="text/css" />
+
+	<h1 align=center style="padding:0px; height:20px; vertical-align: top">Achievements/Activities </h1>
+
+	<br />
+	<br />
+	<p><strong>COLLEGE</strong></p>
+
+	@foreach (string achievement in Text.CollegeAchievements)
+	{<p>@achievement</p>}
+
+	<br />
+	<p><strong>HIGH SCHOOL</strong></p>
+
+	@foreach (string achievement in Text.HighSchoolAchievements)
+	{<p>@achievement</p>}
+
+</div>

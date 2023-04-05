@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\Chase-Website\\ChaseWebsite\\ChaseSite\\ChaseSite.csproj": {}
+    "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\ChaseSite\\ChaseSite.csproj": {}
   },
   "projects": {
-    "C:\\Source\\Chase-Website\\ChaseWebsite\\ChaseSite\\ChaseSite.csproj": {
+    "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\ChaseSite\\ChaseSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\Chase-Website\\ChaseWebsite\\ChaseSite\\ChaseSite.csproj",
+        "projectUniqueName": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\ChaseSite\\ChaseSite.csproj",
         "projectName": "ChaseSite",
-        "projectPath": "C:\\Source\\Chase-Website\\ChaseWebsite\\ChaseSite\\ChaseSite.csproj",
+        "projectPath": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\ChaseSite\\ChaseSite.csproj",
         "packagesPath": "C:\\Users\\Chase Sparks\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\Chase-Website\\ChaseWebsite\\ChaseSite\\obj\\",
+        "outputPath": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\ChaseSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
