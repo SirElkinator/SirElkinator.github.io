@@ -1,0 +1,181 @@
+@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+
+html, body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+a, .btn-link {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.content {
+    padding-top: 1.1rem;
+}
+
+.valid.modified:not([type=checkbox]) {
+    outline: 1px solid #26b050;
+}
+
+.invalid {
+    outline: 1px solid red;
+}
+
+.validation-message {
+    color: red;
+}
+
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+
+
+
+
+body {
+    background-color: bisque;
+    font-family: Arial;
+}
+
+h1 {
+    color: maroon;
+    font-size: 2.5em;
+    font-family: Arial;
+}
+
+.AboutH1 {
+    color: black;
+    font-size: 2.5em;
+    text-align: center;
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: Arial;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+    font-family: Arial;
+}
+
+h3 {
+    font-size: 1;
+    color: rgb(167, 88, 79);
+    text-align: center;
+    font-family: Arial;
+}
+
+table {
+    padding: 10px;
+    background-color: burlywood;
+    border-color: black;
+    border-width: 1px;
+    border-style: double;
+    font-family: Arial;
+    font-size: large;
+}
+
+a {
+    color: blue;
+    font-family: Arial;
+}
+
+h4 {
+    color: black;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: Arial;
+}
+
+img {
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px rgb(88, 24, 24);
+    font-family: Arial;
+}
+
+.aboutMe {
+    padding: 10px;
+    font-family: Arial;
+}
+
+.aboutMe2 {
+    align-content: center;
+    padding-left: 20px;
+    font-family: Arial;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+}
+
+td {
+    width: 250px;
+    height: 30px;
+    font-family: Arial;
+}
+
+.Description {
+    font-weight: bold;
+}
+
+td {
+    text-align: center;
+}
+
+
+tr.top {
+    border: dashed;
+    border-width: 1px;
+}
+
+.navbar {
+    background-color: burlywood;
+    height: 60px;
+    vertical-align: middle;
+    text-align: center;
+    display: block;
+}
+
+.btn {
+    background-color: darkgoldenrod;
+    width: 10%;
+    padding: 10px;
+    border: 1px solid black;
+    height: 40px;
+    vertical-align: middle;
+    display: inline-block;
+}
+

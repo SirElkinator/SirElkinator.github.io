@@ -1,0 +1,68 @@
+﻿<div style="margin-left: 0px; padding-left: 0px" class="navbar">
+	<input type="button" class="btn" @onclick="AboutMe" value="About Me" />
+	<input type="button" class="btn" @onclick="Accomplishments" value="Accomplishments" />
+	<input type="button" class="btn" @onclick="Experience" value="Experience" />
+	<input type="button" class="btn" @onclick="GitHub" value="GitHub" />
+	<input type="button" class="btn" @onclick="LinkedIn" value="LinkedIn" />
+	<input type="button" class="btn" @onclick="MyBlog" value="My Blog" />
+	<a class="btn" href="mailto: chaspa97.cs@gmail.com">Email Me</a>
+</div>
+
+<style>
+	.b1 {
+		border: none;
+		background: none;
+		cursor: pointer;
+		margin: 0;
+		padding: 0;
+	}
+</style>
+
+@code{
+	private int _value;
+
+	[Parameter]
+	public int siteIndex
+	{
+		get => _value;
+		set
+		{
+			if (_value == value) return;
+			_value = value;
+			siteIndexChanged.InvokeAsync(value);
+		}
+	}
+
+	[Parameter]
+	public EventCallback<int> siteIndexChanged { get; set; }
+
+	public void AboutMe()
+	{
+		siteIndex = 1;
+	}
+
+	public void Accomplishments()
+	{
+		siteIndex = 2;
+	}
+
+	public void Experience()
+	{
+		siteIndex = 3;
+	}
+
+	public async Task GitHub()
+	{
+		await JS.InvokeVoidAsync("open", "https://github.com/SirElkinator", "_blank").ConfigureAwait(false);
+	}
+
+	public async Task LinkedIn()
+	{
+		await JS.InvokeVoidAsync("open", "https://www.linkedin.com/in/chase-sparks-40805b12b/", "_blank").ConfigureAwait(false);
+	}
+
+	public async Task MyBlog()
+	{
+		await JS.InvokeVoidAsync("open", "https://chasesparks97.blogspot.com/", "_blank").ConfigureAwait(false);
+	}
+}

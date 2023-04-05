@@ -1,0 +1,29 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+
+	<div class="main">
+		<NavBar @bind-siteIndex="siteIndex" />
+
+		<div class="content px-4">
+			@switch (siteIndex)
+			{
+				case 1:
+					<AboutMe />
+					break;
+				case 2:
+					<Accomplishments />
+					break;
+				case 3:
+					<Experience />
+					break;
+			}
+
+		</div>
+
+	</div>
+</div>
+
+@code{
+	public int siteIndex { get; set; } = 1;
+}
