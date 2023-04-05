@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\MyPortfolio\\MyPortfolio.csproj": {}
+    "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\MyPortfolio.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\MyPortfolio\\MyPortfolio.csproj": {
+    "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\MyPortfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\MyPortfolio\\MyPortfolio.csproj",
+        "projectUniqueName": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\MyPortfolio.csproj",
         "projectName": "MyPortfolio",
-        "projectPath": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\MyPortfolio\\MyPortfolio.csproj",
+        "projectPath": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\MyPortfolio.csproj",
         "packagesPath": "C:\\Users\\Chase Sparks\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\MyPortfolio\\obj\\",
+        "outputPath": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

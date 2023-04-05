@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pekgD8FaKzmzaaaoxlD/sG3drZTmYTSfvcezrSt6/4D6dbt7MKvX4m3S4pddsv1a1hryqmU3LgavCCHstgUGjQ==",
+  "dgSpecHash": "9NN+z0lnCOh0Ce8vFfE1pJJYj8sz4YWQ2V0w1Uv5JX2HXrEat0ZeSomMz+Fu/LHhxEFB6a0OP5VMpeibxzFP7g==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\ChaseWebsite\\MyPortfolio\\MyPortfolio.csproj",
+  "projectFilePath": "D:\\Users\\Chase Sparks\\Documents\\GitHub\\SirElkinator.github.io\\MyPortfolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chase Sparks\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.5\\microsoft.aspnetcore.authorization.6.0.5.nupkg.sha512",
     "C:\\Users\\Chase Sparks\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.5\\microsoft.aspnetcore.components.6.0.5.nupkg.sha512",

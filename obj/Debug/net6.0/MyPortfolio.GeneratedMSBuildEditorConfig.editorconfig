@@ -11,37 +11,37 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = MyPortfolio
 build_property.RootNamespace = MyPortfolio
-build_property.ProjectDir = D:\Users\Chase Sparks\Documents\GitHub\SirElkinator.github.io\ChaseWebsite\MyPortfolio\
+build_property.ProjectDir = D:\Users\Chase Sparks\Documents\GitHub\SirElkinator.github.io\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Users\Chase Sparks\Documents\GitHub\SirElkinator.github.io\ChaseWebsite\MyPortfolio
+build_property.MSBuildProjectDirectory = D:\Users\Chase Sparks\Documents\GitHub\SirElkinator.github.io
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/ChaseWebsite/MyPortfolio/App.razor]
+[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/ChaseWebsite/MyPortfolio/Pages/AboutMe.razor]
+[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/Pages/AboutMe.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRNZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/ChaseWebsite/MyPortfolio/Pages/Accomplishments.razor]
+[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/Pages/Accomplishments.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb21wbGlzaG1lbnRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/ChaseWebsite/MyPortfolio/Pages/Experience.razor]
+[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/Pages/Experience.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZXJpZW5jZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/ChaseWebsite/MyPortfolio/Pages/NavBar.razor]
+[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/Pages/NavBar.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmF2QmFyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/ChaseWebsite/MyPortfolio/_Imports.razor]
+[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/ChaseWebsite/MyPortfolio/Shared/MainLayout.razor]
+[D:/Users/Chase Sparks/Documents/GitHub/SirElkinator.github.io/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-zzy516f2oh

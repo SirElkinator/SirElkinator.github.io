@@ -236,6 +236,7 @@ tr.top {
     vertical-align: middle;
     text-align: center;
     display: block;
+    width:100vw;
 }
 
 .btn {
