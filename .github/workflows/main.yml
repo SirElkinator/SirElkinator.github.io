@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 # Run workflow on every push to the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
     
 jobs:
   deploy-to-github-pages:
@@ -16,8 +16,8 @@ jobs:
       with:
         dotnet-version: 6.0.203
             # publishes Blazor project to the release-folder
-    - name: Publish .NET Core Project
-      run: dotnet publish MyPortfolio.csproj -c Release -o release --nolo
+    - name: Publish .NET Core Project 
+      run: dotnet publish ChaseWebsite.sln -c Release -o release --nologo
     - name: Commit wwwroot to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
