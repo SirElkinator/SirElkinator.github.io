@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WyomingElectricalServices2",
   "resources": {
-    "hash": "sha256-lo2kNrGWPdbumDqfUMv6R2VxdDhPSJM4P/GVenaAGm0=",
+    "hash": "sha256-PjKEWY5KEumnNJ4ssb1N8prtJyrYtHkr6oR9TATEyN0=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.suuomc2hr0.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -39,14 +39,14 @@
       "System.Memory.wasm": "sha256-05mq1d5+fl+Jf5Opq0AK/NVhyxi2j4gf2wsx7fffDws=",
       "System.Net.Http.wasm": "sha256-dSXFvvXeO8FkvTjaA1DMeL0pt81/52s75cqDtZqU0JU=",
       "System.Net.Primitives.wasm": "sha256-yarnBbF9PRPSOzw+onC4dZYqBZ30U2LeuOOtjzoz3/0=",
-      "System.Private.CoreLib.wasm": "sha256-IbLm+tIG26M2VF6fKDVPE0I3023zltlJqfcNqc01vEw=",
+      "System.Private.CoreLib.wasm": "sha256-rRNN49pBg5i9i+eJL19G4pbWvZx1CIBs26+qEMN1pcY=",
       "System.Private.Uri.wasm": "sha256-szqrigZ1zyG81U8wWObBoB4GMx7U/OteDamdElPyuSo=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-ohmTG2LKnaLiLU/QRRbUrParj93c0o4hJ9BDNBVdzco=",
-      "System.Runtime.wasm": "sha256-pR5/fobAHDZWCyfwh/OrvcZhFiaJXDZR58D8EOiomIc=",
+      "System.Runtime.wasm": "sha256-97lg9QeRw7e18FUppNopluuIGbwhp75D8AOXpVx8uyE=",
       "System.Text.Encodings.Web.wasm": "sha256-kUB1Y7HBZCe5X05htxKLP7ZedG/Lb4sP+qjmvelsUdI=",
       "System.Text.Json.wasm": "sha256-NNNp1E5ypaXOhzmr60LoGIdzaIL1gHfy9YCpieVSesM=",
       "System.Text.RegularExpressions.wasm": "sha256-dwAolM80K1HcjJlohUyI5Z8uUesGpmOiR347JGsQNLQ=",
-      "WyomingElectricalServices2.wasm": "sha256-p6uTMMPEfx6H7WpaOeah+4w3AQXiijJ7dRaNVGgUMHg="
+      "WyomingElectricalServices2.wasm": "sha256-l25M0vmEf5K81u3iDg02ccj91QmBHz8rYwMfdkuVHi0="
     }
   },
   "cacheBootResources": true,
