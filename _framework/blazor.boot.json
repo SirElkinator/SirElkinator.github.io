@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WyomingElectricalServices2",
   "resources": {
-    "hash": "sha256-60tBJ6vAyDhaEtd6xnfQa+hVUot3La/ZGZMXrPdi44I=",
+    "hash": "sha256-wBtPCt1FuV7QfACKckjooL1jf/i/qjqlLllDkX4JNXk=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.746giovk6l.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -46,7 +46,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-MCv+5sGwYGikJ8D76raGF6L+02exyJcFgx2sVlUjmKk=",
       "System.Text.Json.wasm": "sha256-ssKxhpQUttYzKmcz3x97MWVU7Ih+A1pW08TZ1VU+HOk=",
       "System.Text.RegularExpressions.wasm": "sha256-8bujMNUMCuxn48zxE7AA6YYcbZJjv76LHEAtNjS6TuE=",
-      "WyomingElectricalServices2.wasm": "sha256-fX4RmKrz3qOapNqgTh2mdhhapPIgg/e+3HMW8kRCF9U="
+      "WyomingElectricalServices2.wasm": "sha256-tBW4a3sp3R57UkKBJudPn9BMIR81a1rGQzI3qtuM47Y="
     }
   },
   "cacheBootResources": true,
